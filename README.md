@@ -3,7 +3,7 @@
 This project contains automated end-to-end tests using [Cypress](https://www.cypress.io/). It is designed to test web application functionality in a modern and easy-to-use environment.
 
 ## 📁 Project Structure
-
+```bash
 cypress/
 │
 ├── e2e/ # Test files
@@ -14,7 +14,7 @@ cypress/
 ├── fixtures/ # Test data files
 ├── support/ # Custom commands and setup
 └── videos/ and screenshots/ (auto-generated)
-
+```bash
 
 ## 🚀 Getting Started
 
