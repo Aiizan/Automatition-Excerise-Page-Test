@@ -1,0 +1,21 @@
+
+# Ignorar node_modules (librerías instaladas)
+node_modules/
+
+# Ignorar carpetas de caché y logs
+.nyc_output/
+coverage/
+cypress/screenshots/
+cypress/videos/
+*.log
+
+# Ignorar configuraciones de usuario
+.DS_Store
+.env
+
+# Ignorar archivos de ejemplo
+cypress/e2e/1-getting-started/
+cypress/e2e/2-advanced-examples/
+
+# Ignorar lock de sistema operativo
+Thumbs.db
