@@ -20,12 +20,13 @@ cypress/
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/Aiizan/Automatition-Excerise-Page-Test
 cd your-repo-name
 
 ### 2. Install dependencies
-```bash
+
+
 Make sure you have Node.js installed.
 
 
