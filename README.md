@@ -20,23 +20,26 @@ cypress/
 
 ### 1. Clone the repository
 
-
+```
 git clone https://github.com/Aiizan/Automatition-Excerise-Page-Test
-cd your-repo-name
 
+```
 ### 2. Install dependencies
 
-
+```
 Make sure you have Node.js installed.
 
 
 npm install
-
+```
 3. Run Cypress
-Open the Cypress UI:
 
+```   
+Open the Cypress UI:
+```
 npx cypress open
 
 Or run tests in headless mode:
-
+```
 npx cypress run
+```
