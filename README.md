@@ -32,14 +32,14 @@ Make sure you have Node.js installed.
 
 npm install
 ```
-3. Run Cypress
+### 3. Run Cypress
 
 ```   
 Open the Cypress UI:
 ```
 npx cypress open
 
-Or run tests in headless mode:
+### Or run tests in headless mode:
 ```
 npx cypress run
 ```
