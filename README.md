@@ -14,7 +14,7 @@ cypress/
 ├── fixtures/ # Test data files
 ├── support/ # Custom commands and setup
 └── videos/ and screenshots/ (auto-generated)
-```bash
+
 
 ## 🚀 Getting Started
 
